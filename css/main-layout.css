@@ -295,7 +295,19 @@ margin-bottom:50px;
   
 }
 
+@media screen and (max-width:1440px) {
+  #community .inner {
+    width: 100vw;
+    height: 21.35416666666667vh;
+  }
+}
 
+@media screen and (max-width:768px) {
+  #community .inner {
+    width: 72.91666666666667vw;
+    height: 21.35416666666667vh;
+  }
+}
 
 
 
